@@ -6,7 +6,7 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 
 // Id of the bot
-const botId = '<Replace-with-your-bot-id>';
+const botId = '613000635289305108';
 
 // Listen to the ready event of the bot
 client.on('ready', function (evt) {
@@ -20,7 +20,7 @@ client.on('message', message => {
     if (message.author.bot) return;
     
     // Check if the message starts with the !
-    if (message.content.indexOf('!') === 0) {
+    if (message.content.indexOf('!shrijith') === 0) {
         // Get a substring to exclude the ! from the message
         var text = message.content.substring(1);
         
