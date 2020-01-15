@@ -15,5 +15,5 @@ In order to run the bot, you should get an API key from [DialogFlow](https://dia
 To run, you need to excecute the following command:
 
 ```sh
-AUTH_TOKEN=<your-discord-token> API_AI=<your-api-ai-key> node main.js
+AUTH_TOKEN=<your-discord-token> API_AI=<your-api-ai-key> node index.js
 ```
