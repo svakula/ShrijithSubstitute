@@ -17,8 +17,5 @@ To run, you need to excecute the following command:
 ```sh
 AUTH_TOKEN=<your-discord-token> API_AI=<your-api-ai-key> node index.js
 ```
-<<<<<<< HEAD
 
 ### This Aint Original, adapted from another repository to fit my needs
-=======
->>>>>>> master
