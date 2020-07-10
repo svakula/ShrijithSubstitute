@@ -1,6 +1,6 @@
 # Artificial Intelligence Discord Bot
 
-This bot is capable of answer any message sent through discord using the '!' command to specify that this message is for the bot. This bot works using the [Api.ai](https://dialogflow.com/) which is now known as DialogFlow.
+This bot is capable of answer any message sent through discord using the '!shrijith' command to specify that this message is for the bot. This bot works using the [Api.ai](https://dialogflow.com/) which is now known as DialogFlow.
 
 The responses can be trained to any situation such as book a flight, query the weather and so many things. In addition, you can add custom responses for very special cases that you want to respond with a specific answer.
 
@@ -15,7 +15,10 @@ In order to run the bot, you should get an API key from [DialogFlow](https://dia
 To run, you need to excecute the following command:
 
 ```sh
-AUTH_TOKEN=<your-discord-token> API_AI=<your-api-ai-key> node main.js
+AUTH_TOKEN=<your-discord-token> API_AI=<your-api-ai-key> node index.js
 ```
+<<<<<<< HEAD
 
 ### This Aint Original, adapted from another repository to fit my needs
+=======
+>>>>>>> master
