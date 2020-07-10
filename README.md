@@ -6,7 +6,7 @@ The responses can be trained to any situation such as book a flight, query the w
 
 ### Stack
 
-This bot is running using NodeJs with the apiai & discord.js modules. Simple as this.
+This bot is running using NodeJs with the apiai & discord.js modules.
 
 ### How to run
 
@@ -18,6 +18,4 @@ To run, you need to excecute the following command:
 AUTH_TOKEN=<your-discord-token> API_AI=<your-api-ai-key> node main.js
 ```
 
-### Contributors
-
-To contribute to this project, fork this repo and make a pull request with your changes.
+### This Aint Original, adapted from another repository to fit my needs
